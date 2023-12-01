@@ -26,13 +26,12 @@ https://boston-house-price-prediction-pmhs.onrender.com
 Enter Information:
 
 Visit the website and Enter the required information in the input fields.
-
+![Boston housing-img1](https://github.com/RushithaM/Boston-House-Price-Prediction-and-Deployment/assets/151159899/3db50b88-6aeb-4718-a4e3-c0ae87a9268f)
 
 After entering the necessary details, click the "Submit" button.
 
 View Prediction:
-
-
+![Boston housing img2](https://github.com/RushithaM/Boston-House-Price-Prediction-and-Deployment/assets/151159899/9fbda714-90bf-4701-8984-f02d26a37944)
 
 The system processes the input using machine learning models.
 
